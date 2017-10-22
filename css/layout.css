@@ -13,18 +13,18 @@
   float: left;
   width: 32%;
   margin-bottom: 2%;
-  background: #ffffff;
+
 }
 
 .col-2 {
   float: left;
   width: 66%;
   margin-bottom: 2%;
-  background: #ffffff;
+
 }
 
 .col-3 {
-  background: #ffffff;
+  width: 100;
 }
 
 .clearfix:after {
